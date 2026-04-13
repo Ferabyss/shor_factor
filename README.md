@@ -1,3 +1,3 @@
 # shor_factor
 
-https://github.com/Ferabyss/shor_factor.git 
+https://ferabyss.github.io/shor_factor 
